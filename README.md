@@ -7,7 +7,7 @@
 Hibernate ve Spring Framewrok ile Oracle DB üzerinde ekleme silme güncelleme ve listeleme işlemleri yapılmış proje örneğidir.
 
 ### Unutma
-Projeyi indirdiğinizde **hibernate-config.xml** ve **testcon.xml** dosyalarındaki oracle server connection bilgilerinizi güncelleyiniz
+Projeyi indirdiğinizde **hibernate-config.xml** , **testcon.xml**  ve **hibernate.reveng.xml** dosyalarındaki oracle server connection bilgilerinizi güncelleyiniz
 
 
 ```markdown
