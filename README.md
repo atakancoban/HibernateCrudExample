@@ -11,7 +11,7 @@ Hibernate ve Spring Framewrok ile Oracle DB üzerinde ekleme silme güncelleme v
 
 
 ```markdown
-Syntax highlighted code block
+Version Bilgileri
 
 # Hibernate Version : 5.2.10.Final
 # Spring Version    : 4.3.10.RELEASE** 
